@@ -10,6 +10,7 @@ android {
     compileSdkVersion 32
     buildToolsVersion "29.0.3"
 
+
     defaultConfig {
         applicationId "com.androiddevs.mvvmnewsapp"
         minSdkVersion 21
@@ -32,6 +33,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = JavaVersion.VERSION_1_8.toString()
+    }
+    viewBinding {
+        enabled true
     }
 }
 

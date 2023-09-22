@@ -27,6 +27,7 @@
               <args>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ec741abc04cbd6725a46457fa91373f/jetified-junit-1.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79dca1c3c09f4bc1ddbe2e9c0a46e9ae/espresso-core-3.2.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5352329bbbf3d73bcd533e84cd39bac3/jetified-viewbinding-3.6.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/428edd2621d027422a290e9a4408b56f/runner-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d89b6ba0caf010285c49b312fd429166/jetified-junit-4.12.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6baf7c5a9163114f7eb36d7539916049/jetified-hamcrest-integration-1.3.jar</arg>
@@ -221,6 +222,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:annotations:4.11.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:3.6.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.2.1@aar" level="project" />
