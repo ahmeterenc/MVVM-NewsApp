@@ -9,7 +9,8 @@ import com.androiddevs.mvvmnewsapp.models.Article
 
 @Database(
     entities = [Article::class],
-    version = 2
+    version = 2,
+    exportSchema = false,
 )
 @TypeConverters(Converters::class)
 abstract class ArticleDatabase : RoomDatabase() {
